@@ -11,8 +11,8 @@ export default function Home() {
       </h2>
       <p>Welcome to the LoveLoveLove Quiz!</p>
       <p>
-        The questions for today's Valentine's Quiz are below, and you'll be able
-        to see the answers as soon as you are done.
+        The questions for today&apos;s Valentine's Quiz are below, and you'll be
+        able to see the answers as soon as you are done.
       </p>
       <div>
         <Input actualAnswer="kitten" />
