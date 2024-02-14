@@ -27,14 +27,13 @@ export default function Home() {
         </h2>
         <p>Welcome to the LoveLoveLove Quiz!</p>
         <p>
-          The questions for today's Valentine's Quiz are below, and you'll be
-          able to see the answers as soon as you are done.
+          The questions for today&apos;s Valentine&apos;s Quiz are below, and
+          you&apos;ll be able to see the answers as soon as you are done.
         </p>
 
         <form className="py-[30px]">
           <p className="pb-[10px]">
-            1. Which character does Maggie Smith play in the 'Harry Potter'
-            films?
+            1. Which character does Maggie Smith play in the Harry Potter films?
           </p>
         </form>
         <p className="text-pink-400 font-bold">You wrote:</p>
@@ -58,7 +57,7 @@ export default function Home() {
 
         <form className="py-[30px]">
           <p className="pb-[10px]">
-            3. Series 2 of 'Vigil' is partly set in which fictional country?
+            3. Series 2 of Vigil is partly set in which fictional country?
           </p>
         </form>
         <p className="text-pink-400 font-bold">You wrote:</p>
@@ -70,8 +69,8 @@ export default function Home() {
 
         <form className="py-[30px]">
           <p className="pb-[10px]">
-            4. In what year did Ronnie O'Sullivan first win the World Snooker
-            Championship?
+            4. In what year did Ronnie O&apos;Sullivan first win the World
+            Snooker Championship?
           </p>
         </form>
         <p className="text-pink-400 font-bold">You wrote:</p>
@@ -82,15 +81,15 @@ export default function Home() {
         <form className="py-[30px]">
           <p className="pb-[10px]">
             5. Name 5 Best Picture Academy Award winning films whose title start
-            with 'P' or 'C'.
+            with the letters P or C.
           </p>
         </form>
         <p className="text-pink-400 font-bold">You wrote:</p>
         <p>{`${questionFiveAnswer}, ${questionSixAnswer}, ${questionSevenAnswer}, ${questionEightAnswer}, ${questionNineAnswer}`}</p>
         <p className="text-pink-400 font-bold">The correct answers are:</p>
         <p className="mb-[30px]">
-          'Casablanca,' 'Cavalcade,' 'Chariots of Fire,' 'Chicago,' 'Cimarron,'
-          'CODA,' 'Crash,' 'Parasite,' 'Patton,' 'Platoon'
+          Casablanca, Cavalcade, Chariots of Fire, Chicago, Cimarron, CODA,
+          Crash, Parasite, Patton, Platoon
         </p>
 
         <hr />
@@ -107,14 +106,13 @@ export default function Home() {
         </h2>
         <p className="pt-[10px]">Welcome to the LoveLoveLove Quiz!</p>
         <p className="pt-[10px]">
-          The questions for today's Valentine's Quiz are below, and you'll be
-          able to see the answers as soon as you are done.
+          The questions for today&apos;s Valentine&apos;s Quiz are below, and
+          you&apos;ll be able to see the answers as soon as you are done.
         </p>
 
         <form className="py-[30px]">
           <p className="pb-[10px]">
-            1. Which character does Maggie Smith play in the 'Harry Potter'
-            films?
+            1. Which character does Maggie Smith play in the Harry Potter films?
           </p>
           <label>
             <input
@@ -146,7 +144,7 @@ export default function Home() {
 
         <form className="py-[30px]">
           <p className="pb-[10px]">
-            3. Series 2 of 'Vigil' is partly set in which fictional country?
+            3. Series 2 of Vigil is partly set in which fictional country?
           </p>
           <label>
             <input
@@ -162,8 +160,8 @@ export default function Home() {
 
         <form className="py-[30px]">
           <p className="pb-[10px]">
-            4. In what year did Ronnie O'Sullivan first win the World Snooker
-            Championship?
+            4. In what year did Ronnie O&apos;Sullivan first win the World
+            Snooker Championship?
           </p>
           <label>
             <input
@@ -180,7 +178,7 @@ export default function Home() {
         <form className="py-[30px] flex flex-col gap-[10px]">
           <p className="pb-[10px]">
             5. Name 5 Best Picture Academy Award winning films whose title start
-            with 'P' or 'C'.
+            with the letters P or C.
           </p>
           <label>
             <input

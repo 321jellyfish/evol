@@ -7,7 +7,7 @@ export default function Home() {
     <main>
       <Header />
       <h2 className="text-xl mt-[50px]">
-        The LoveLoveLove Quiz, 14th February 2024 {questionOneAnswer}
+        The LoveLoveLove Quiz, 14th February 2024
       </h2>
       <p>Welcome to the LoveLoveLove Quiz!</p>
       <p>
